@@ -56,37 +56,7 @@ Node.js (Versión 18.x o superior recomendada).
 
 npm (Gestor de paquetes incluido con Node.js).
 
-📥 Instalación y Configuración
-
-Sigue estos pasos para clonar y poner en marcha el proyecto localmente:
-
-Clona el repositorio (o descomprime el archivo del proyecto):
-
-git clone <url-del-repositorio>
-cd GameHub-Store_Entrega_2
-
-
-Instala las dependencias:
-
-npm install
-
-
-Ejecuta el servidor de desarrollo:
-
-npm run dev
-
-
 Abre tu navegador web y accede a la dirección local proporcionada por Vite (usualmente http://localhost:5173).
-
-📜 Scripts Disponibles
-
-En el archivo package.json encontrarás los siguientes comandos configurados para el flujo de trabajo:
-
-npm run dev: Inicia el servidor de desarrollo en tiempo real.
-
-npm run build: Compila la aplicación optimizada para producción en la carpeta de distribución.
-
-npm run preview: Permite visualizar localmente la versión compilada de producción.
 
 👤 Autor
 
