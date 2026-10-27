@@ -92,4 +92,6 @@ npm run preview: Permite visualizar localmente la versión compilada de producci
 
 Ankatu Paillacar Meza
 
-Carrera: Ingeniería en Informática — Duoc UC
+Martiz Aravena Martin Brendan
+
+Jorquera Mancilla Brayan Sebastian
